@@ -19,21 +19,21 @@ Overview
     :target: https://readthedocs.org/projects/python-tf-search-engine
     :alt: Documentation Status
 
-.. |travis| image:: https://api.travis-ci.org/ionelmc/python-tf-search-engine.svg?branch=master
+.. |travis| image:: https://api.travis-ci.org/nokdupark/python-tf-search-engine.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/ionelmc/python-tf-search-engine
+    :target: https://travis-ci.org/nokdupark/python-tf-search-engine
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/ionelmc/python-tf-search-engine?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/nokdupark/python-tf-search-engine?branch=master&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/ionelmc/python-tf-search-engine
+    :target: https://ci.appveyor.com/project/nokdupark/python-tf-search-engine
 
-.. |requires| image:: https://requires.io/github/ionelmc/python-tf-search-engine/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/nokdupark/python-tf-search-engine/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/ionelmc/python-tf-search-engine/requirements/?branch=master
+    :target: https://requires.io/github/nokdupark/python-tf-search-engine/requirements/?branch=master
 
-.. |codecov| image:: https://codecov.io/github/ionelmc/python-tf-search-engine/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/gh/nokdupark/python-tf-search-engine/branch/master/graph/badge.svg?token=1TEJdfnygV
     :alt: Coverage Status
-    :target: https://codecov.io/github/ionelmc/python-tf-search-engine
+    :target: https://codecov.io/gh/nokdupark/python-tf-search-engine
 
 .. |version| image:: https://img.shields.io/pypi/v/tf-search-engine.svg
     :alt: PyPI Package latest release
@@ -51,9 +51,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/tf-search-engine
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/ionelmc/python-tf-search-engine/v0.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/nokdupark/python-tf-search-engine/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/ionelmc/python-tf-search-engine/compare/v0.0.0...master
+    :target: https://github.com/nokdupark/python-tf-search-engine/compare/v0.0.0...master
 
 
 
@@ -72,7 +72,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/ionelmc/python-tf-search-engine/archive/master.zip
+    pip install https://github.com/nokdupark/python-tf-search-engine/archive/master.zip
 
 
 Documentation
