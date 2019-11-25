@@ -2,4 +2,4 @@
 Authors
 =======
 
-* Byungkeon Park - https://blog.nokdupark.ro
+* Byungkeon Park - https://nokdupark.github.io/

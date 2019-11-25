@@ -53,7 +53,7 @@ Overview
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/nokdupark/python-tf-search-engine/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/nokdupark/python-tf-search-engine/compare/v0.0.0...master
+    :target: https://github.com/nokdupark/python-tf-search-engine/compare/v0.0.0
 
 
 
